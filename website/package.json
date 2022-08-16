@@ -14,7 +14,7 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-twitter": "^1.0.20",
     "gatsby-plugin-typography": "^1.7.18",
-    "gatsby-source-filesystem": "^1.5.31",
+    "gatsby-source-filesystem": "^4.21.0",
     "gatsby-transformer-remark": "^1.7.40",
     "lodash.kebabcase": "^4.1.1",
     "react-document-title": "^2.0.3",
